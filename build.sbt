@@ -1,5 +1,5 @@
 
-name := "mc-commercetools-accelerator"
+name := "commercetools-sunrise-java-starter"
 
 version := "0.1.0-SNAPSHOT"
 

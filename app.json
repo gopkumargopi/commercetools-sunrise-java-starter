@@ -1,7 +1,8 @@
 {
-  "name": "Mindcurv Accelerator",
+  "name": "Mindcurv Commercetools Accelerator",
   "description": "Mindcurv Accelerator based on commercetools and template 'Sunrise' for Java",
   "repository": "https://github.com/gopkumargopi/commercetools-sunrise-java-starter",
+
   "logo": "https://raw.githubusercontent.com/commercetools/press-kit/master/PNG/72DPI/CT%20logo%20vertical%20RGB%2072dpi.png",
   "keywords": ["commercetools", "ecommerce", "shopping"],
   "env": {
