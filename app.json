@@ -6,16 +6,13 @@
   "keywords": ["commercetools", "ecommerce", "shopping"],
   "env": {
     "CTP_PROJECT_KEY": {
-      "description": "The project key for your commercetools platform project.",
-      "value": "mc-ct-demo-81"
+      "description": "The project key for your commercetools platform project."
     },
     "CTP_CLIENT_ID": {
-      "description": "The client ID of your commercetools platform project.",
-      "value": "SRFTyAGs1S5lF0wNJOtli5Af"
+      "description": "The client ID of your commercetools platform project."
     },
     "CTP_CLIENT_SECRET": {
-      "description": "The client secret of your commercetools platform project.",
-      "value": "EIp8dUbUPjIlCh5-Wm6EYP68yd81S_E5"
+      "description": "The client secret of your commercetools platform project."
     },
     "CTP_AUTH_URL": {
       "description": "The Auth endpoint of the commercetools platform.",
