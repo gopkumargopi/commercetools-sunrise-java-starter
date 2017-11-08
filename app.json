@@ -1,18 +1,21 @@
 {
-  "name": "Sunrise Java",
-  "description": "Create your own webshop in minutes with commercetools and our template 'Sunrise' for Java",
-  "repository": "https://github.com/commercetools/commercetools-sunrise-java-starter",
+  "name": "Mindcurv Accelerator",
+  "description": "Mindcurv Accelerator based on commercetools and template 'Sunrise' for Java",
+  "repository": "https://github.com/gopkumargopi/commercetools-sunrise-java-starter",
   "logo": "https://raw.githubusercontent.com/commercetools/press-kit/master/PNG/72DPI/CT%20logo%20vertical%20RGB%2072dpi.png",
   "keywords": ["commercetools", "ecommerce", "shopping"],
   "env": {
     "CTP_PROJECT_KEY": {
-      "description": "The project key for your commercetools platform project."
+      "description": "The project key for your commercetools platform project.",
+      "value": "mc-ct-demo-81"
     },
     "CTP_CLIENT_ID": {
-      "description": "The client ID of your commercetools platform project."
+      "description": "The client ID of your commercetools platform project.",
+      "value": "SRFTyAGs1S5lF0wNJOtli5Af"
     },
     "CTP_CLIENT_SECRET": {
-      "description": "The client secret of your commercetools platform project."
+      "description": "The client secret of your commercetools platform project.",
+      "value": "EIp8dUbUPjIlCh5-Wm6EYP68yd81S_E5"
     },
     "CTP_AUTH_URL": {
       "description": "The Auth endpoint of the commercetools platform.",
